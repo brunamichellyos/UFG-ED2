@@ -1,6 +1,6 @@
 # Estruturas de Dados e Algoritmos
 
-Bem-vindos ao repositório oficial da disciplina de Estruturas de Dados e Algoritmos. Este curso é destinado a estudantes de ciência da computação e engenharia da computação que desejam aprofundar seus conhecimentos em estruturas de dados complexas e algoritmos eficientes para manipulação de dados. 
+Bem-vindos ao repositório oficial da disciplina de Estruturas de Dados e Algoritmos II. Este curso é destinado a estudantes de engenharia de computação que desejam aprofundar seus conhecimentos em estruturas de dados complexas e algoritmos eficientes para manipulação de dados. 
 
 ## Objetivos do Curso
 
