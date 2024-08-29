@@ -43,5 +43,6 @@ Para clonar este repositório e começar a usar os exemplos de código e exercí
 ```bash
 git clone [URL-do-repositório]
 cd [nome-do-repositório]
+```
 
 ### Bons Estudos!
