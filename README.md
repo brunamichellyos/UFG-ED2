@@ -10,7 +10,7 @@ O principal objetivo deste curso é fornecer aos alunos uma compreensão profund
 
 Este repositório está organizado em várias pastas, cada uma dedicada a um conjunto específico de tópicos. Abaixo, você encontrará uma breve descrição do conteúdo de cada pasta:
 
-### [Métodos de Ordenação](./Metodo)
+### [Métodos de Ordenação]([Métodos de Ordenação](https://github.com/brunamichellyos/UFG-ED2/blob/main/M%C3%A9todos%20de%20Ordena%C3%A7%C3%A3o))
 
 Esta pasta contém exemplos de código e exercícios sobre diferentes métodos de ordenação, incluindo:
 - Seleção
