@@ -44,6 +44,4 @@ Para clonar este repositório e começar a usar os exemplos de código e exercí
 git clone [URL-do-repositório]
 cd [nome-do-repositório]
 
-´´´
-
-Boa aprendizagem a todos e esperamos que este repositório seja um recurso valioso na sua jornada educacional!
+### Bons Estudos!
