@@ -1,5 +1,13 @@
+/*
+O código abaixo apresenta a implementação de uma pilha e suas operações básicas.
+
+1 - comente o código
+2 - implemente uma função para verificar se a pilha está vazia.
+3 - proponha uma função que possa fazer expansão dinâmica quando a capacidade máxima é atingida, em vez de simplesmente negar novas inserções na pilha.
+*/
+
 #include <stdio.h>
-#define MAX_SIZE 100
+#define MAX_SIZE 3
 
 int pilha[MAX_SIZE];
 int topo = -1;
