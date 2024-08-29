@@ -1,3 +1,8 @@
+/*
+O código abaixo recebe do usuário elementos que são inseridos em uma matriz 3x3, em seguida, imprime a soma de sua diagonal principal.
+- faça uma modificação para que seja possível dinamizar o tamanho da matriz (utilizar alocação dinâmica de memória usando malloc)
+*/
+
 #include <stdio.h>
 
 int main() {
