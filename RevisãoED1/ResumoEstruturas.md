@@ -1,5 +1,5 @@
 Este documento oferece uma explicação das diferentes formas de listas usadas em estruturas de dados, com foco na alocação e gerenciamento de memória para cada tipo.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Estruturas de Dados: Listas
 
 ## 1. Listas Simplesmente Ligadas
