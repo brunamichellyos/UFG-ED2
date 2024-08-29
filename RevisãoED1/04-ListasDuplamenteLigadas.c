@@ -1,3 +1,11 @@
+/*
+O código apresenta uma lista duplamente ligada com operações básicas para inserir, deletar e imprimir.
+
+1 - comente o código.
+2 - Modifique a operação de inserção de dados, para que o usuário seja capaz de inserir valores para a lista.
+3 - Faça uma operação de buscar por um valor específico, informado pelo usuário, onde o programa deve apresentar se o valor foi encontrado e, em caso afirmativo, exibir detalhes(vizinhos) do nó correspondente.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
