@@ -24,7 +24,7 @@ As listas são cruciais em muitos aspectos da computação, desde a implementaç
 
 ## Considerações sobre Desempenho
 
-- **Acesso e Inserção**: Listas duplamente ligadas e circulares podem usar mais memória por nó devido aos ponteiros extras, mas facilitam operações que exigem navegação reversa ou ciclos contínuos, o que pode ser um trade-off valioso em muitos cenários.
+- **Acesso e Inserção**: Listas duplamente ligadas podem usar mais memória por nó devido aos ponteiros extras, mas facilitam operações que exigem navegação reversa, o que pode ser um trade-off valioso em muitos cenários.
 
 A compreensão de como diferentes estruturas de listas alocam e gerenciam a memória é fundamental para otimizar o desempenho e a eficiência de aplicações que dependem intensamente de manipulações de dados dinâmicos.
 
