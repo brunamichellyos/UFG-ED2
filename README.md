@@ -10,7 +10,7 @@ O principal objetivo deste curso é fornecer aos alunos uma compreensão profund
 
 Este repositório está organizado em várias pastas, cada uma dedicada a um conjunto específico de tópicos. Abaixo, você encontrará uma breve descrição do conteúdo de cada pasta:
 
-### [Métodos de Ordenação](./Ordenação)
+### [Métodos de Ordenação](./Metodo)
 
 Esta pasta contém exemplos de código e exercícios sobre diferentes métodos de ordenação, incluindo:
 - Seleção
