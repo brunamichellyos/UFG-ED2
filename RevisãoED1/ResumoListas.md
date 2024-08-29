@@ -18,14 +18,6 @@ Uma **lista duplamente ligada** permite a navegação bidirecional, pois cada n�
 - **Memória por Nó**: Além do espaço para o dado, cada nó armazena dois ponteiros — um para o próximo nó e outro para o anterior, consumindo mais memória por nó comparado às listas simplesmente ligadas.
 - **Dinâmica**: Assim como nas listas simplesmente ligadas, a memória é alocada dinamicamente para cada nó inserido.
 
-## 3. Listas Circulares
-
-Uma **lista circular** pode ser simplesmente ligada ou duplamente ligada, mas o último nó na sequência aponta de volta para o primeiro nó, formando um círculo.
-
-### Alocação de Memória:
-- **Memória por Nó**: Similar às listas simplesmente ligadas, com a exceção de que o ponteiro do último nó aponta para o primeiro nó, em vez de `NULL`.
-- **Dinâmica**: Similar às listas duplamente ligadas, mas tanto o primeiro quanto o último nó têm ponteiros que fecham o círculo, conectando-se um ao outro.
-
 ## Uso e Aplicações
 
 As listas são cruciais em muitos aspectos da computação, desde a implementação de filas e pilhas até o gerenciamento de recursos e implementação de buffers circulares. A escolha do tipo de lista depende das necessidades específicas de cada aplicação, como a frequência de inserções e remoções, e se a navegação bidirecional é necessária.
