@@ -1,3 +1,9 @@
+/*
+O código abaixo realiza a impressão do vetor na ordem inversa.
+1 - comente o código
+2 - faça uma modificação para que seja possível inserir um vetor de n elementos.
+*/
+
 #include <stdio.h>
 
 int main() {
