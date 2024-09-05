@@ -24,10 +24,10 @@ Esta pasta contém exemplos de código com exercícios de revisão sobre Estrutu
 Esta pasta contém exemplos de código e exercícios sobre diferentes métodos de ordenação, incluindo:
 - Seleção
 - Troca
-- Distribuição
 - Inserção
+- Rápida
 - Intercalação
-- Cálculo de endereços
+- Distribuição
 
 ### [Pesquisa de Dados](./Pesquisa)
 
