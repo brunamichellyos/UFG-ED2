@@ -144,7 +144,7 @@ A saída exibe a árvore AVL em ordem e imprime a altura de cada nó.
 
 1. **Expandir o Código**: Implementar uma função para remover um nó da árvore AVL.
 2. **Analisar o Balanceamento**: Desenhar a árvore após cada operação de inserção e remoção.
-3. **Responder Consultas**: Criar funções para buscar o menor e o maior valor na árvore.
+3. **Responder Consultas**: Criar funções para buscar elementos na árvore.
 
 ## Conclusão
 
