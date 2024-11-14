@@ -31,7 +31,8 @@ Cada nó na árvore AVL possui:
 
 ```c
 struct Node {
-    int key;
+    int id;               // ID do cliente (chave de busca)
+    char name[50];        // Nome do cliente
     struct Node *left;
     struct Node *right;
     int height;
