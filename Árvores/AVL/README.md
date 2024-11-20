@@ -151,4 +151,3 @@ A saída exibe a árvore AVL em ordem e imprime a altura de cada nó.
 
 Essa atividade auxilia no entendimento sobre a importância de estruturas balanceadas, como as árvores AVL, e o impacto das rotações no desempenho das operações de inserção e remoção. 
 Aproveitem a atividade e explorem as propriedades de balanceamento da árvore AVL!
-```
