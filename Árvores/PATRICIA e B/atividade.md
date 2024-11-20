@@ -23,7 +23,7 @@ Desenvolver um corretor ortográfico básico que permita:
 
 #### **1. Inserir Palavras no Dicionário**
    - Crie uma função para inserir palavras no dicionário.
-   - **Entrada:** Um conjunto de palavras fornecido pelo professor, como um arquivo `dicionario.txt` com cerca de 1.000 palavras.
+   - **Entrada:** Um conjunto de palavras fornecido pela professora, como um arquivo `dicionario.txt` com cerca de 100 palavras.
    - **Saída Esperada:** As palavras serão armazenadas na estrutura (Patricia ou B), e uma mensagem será exibida confirmando cada inserção.
 
    **Exemplo de Teste:**
