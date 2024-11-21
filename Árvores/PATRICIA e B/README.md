@@ -9,7 +9,7 @@ Uma empresa de tecnologia está desenvolvendo um corretor ortográfico para melh
 2. **Buscar palavras corretas:** Verificar se uma palavra digitada pelo usuário está no dicionário.
 3. **Sugerir palavras próximas:** Listar sugestões de palavras com base em um prefixo digitado pelo usuário.
 
-Os engenheiros sugeriram duas abordagens: **Árvores Patricia** e **Árvores B**. Sua tarefa é implementar ambas as estruturas de dados em C, realizar os testes necessários, e determinar qual delas é mais eficiente para o problema proposto.
+Os engenheiros sugeriram duas abordagens: **Árvores Patricia** e **Árvores B**. Sua tarefa é implementar uma das estruturas de dados em C, realizar os testes necessários para o problema proposto.
 
 ---
 #### **Objetivo:**
