@@ -22,7 +22,7 @@ Desenvolver um corretor ortográfico básico que permita:
 ### **Etapas para Implementação**
 
 #### **1. Inserir Palavras no Dicionário**
-   - Crie uma função para inserir palavras no dicionário.
+   - Crie uma função para inserir palavras no dicionário lendo o arquivo dicionario.txt.
    - **Entrada:** Um conjunto de palavras fornecido pela professora, como um arquivo `dicionario.txt` com cerca de 100 palavras.
    - **Saída Esperada:** As palavras serão armazenadas na estrutura (Patricia ou B), e uma mensagem será exibida confirmando cada inserção.
 
@@ -79,6 +79,7 @@ Desenvolver um corretor ortográfico básico que permita:
 #### **Funções-Chave a Implementar**
 
 ##### **1. Função de Inserção**
+A função de inserção de palavras está presente no código do exemplo!
 ```c
 void insertWord(PatriciaNode **root, const char *word);
 // Ou para Árvore B:
@@ -86,6 +87,7 @@ void insertWord(BTreeNode **root, const char *word);
 ```
 
 ##### **2. Função de Busca**
+A função de busca de palavras está presente no código do exemplo!
 ```c
 int searchWord(PatriciaNode *root, const char *word);
 // Ou para Árvore B:
@@ -93,6 +95,7 @@ int searchWord(BTreeNode *root, const char *word);
 ```
 
 ##### **3. Função de Sugestão (Autocompletar)**
+Essa função deverá ser implementada!
 ```c
 void suggestWords(PatriciaNode *root, const char *prefix);
 // Ou para Árvore B:
@@ -102,7 +105,7 @@ void suggestWords(BTreeNode *root, const char *prefix);
 ---
 
 ### **Entrega Final**
-1. **Código Funcional:** Implementação completa com o menu interativo.
+1. **Código Funcional:** Implementação completa da **função de sugestão de palavras** com o menu interativo.
 2. **Teste de Conjunto de Palavras:** Incluindo palavras de um arquivo `dicionario.txt` no programa.
 3. **Autocompletar Operacional:** Sugestões baseadas em prefixos funcionando corretamente.
 
